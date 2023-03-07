@@ -1,4 +1,4 @@
-comandos do git/github.
+ Principais comandos do git/github.
 
 1. Git clone
 Git clone é uma comando para baixar o código-fonte existente de um repositório remoto
